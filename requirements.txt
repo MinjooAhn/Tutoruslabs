@@ -1,0 +1,10 @@
+numpy
+pandas 
+matplotlib
+openai
+tenacity
+requests
+datasets
+transformers
+pyperclip
+scikit-learn
