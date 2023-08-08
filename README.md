@@ -30,3 +30,4 @@ This repository contains the code and analysis for my comprehensive work on Auto
 
 ## Summary
 I have engaged in fine-tuning Language Models (LMs) using the PEFT LoRA method. Also through prompt engineering and data analysis, I experimented on the feasability of using LLMs such as the OpenAi GPT models for Automated Essay Scoring.
+I also had the opportunity to create large datasets using LLMs, formulating it to maximise efficiency in the machine learning process.
