@@ -29,7 +29,7 @@ This repository contains the code and analysis for my comprehensive work on Auto
    - This notebook contains the code for analysing token length distributions of input prompts to check before training specific models.
 
 7. **LoRA**
-   - Most of the code in this file are altered versions of the files from 'ploen/alpaca-lora repo'. I changed parts of the code to fit my purpose.
+   - Most of the code in this file are altered versions of the files from 'ploen/alpaca-lora' repo. I changed parts of the code to fit my purpose.
 ## Summary
 I have engaged in fine-tuning Language Models (LMs) using the PEFT LoRA method. Also through prompt engineering and data analysis, I experimented on the feasability of using LLMs such as the OpenAi GPT models for Automated Essay Scoring.
 I also had the opportunity to create large datasets using LLMs, formulating it to maximise efficiency in the machine learning process.
